@@ -1,5 +1,5 @@
 package test1
 
-func test1() string {
+func Test1() string {
 	return "test1"
 }
